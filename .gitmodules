@@ -1,0 +1,6 @@
+[submodule "semi-supervised-learning"]
+	path = semi-supervised-learning
+	url = https://github.com/g95wang/semi-supervised-learning.git
+[submodule "pre-training"]
+	path = pre-training
+	url = https://github.com/g95wang/pre-training.git
